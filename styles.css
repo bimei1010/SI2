@@ -1,0 +1,12 @@
+body{
+    margin-left: 200px;
+    background-color: #F8F1F0;
+}
+p{
+    font-family: monospace;
+    color: #004225;
+    font-size: 20px;
+}
+li{
+    color:#ff7373;
+}
